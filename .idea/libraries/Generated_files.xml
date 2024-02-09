@@ -1,0 +1,108 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/public/build/assets/app.d1522041.min.js" />
+        <item url="file://$PROJECT_DIR$/public/estilos/application/js/appPlanilla/herramientasPlanillaProfesional.min.js" />
+        <item url="file://$PROJECT_DIR$/public/estilos/application/views/default/pages/partials/form-basic/@page-script.min.js" />
+        <item url="file://$PROJECT_DIR$/public/estilos/assets/js/cargando.min.js" />
+        <item url="file://$PROJECT_DIR$/public/estilos/node_modules/PayCards/js/main.min.js" />
+        <item url="file://$PROJECT_DIR$/public/estilos/node_modules/PayCards/js/main.min.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/cargando.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/cropper/cropper.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/global.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/global_ui.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/herramientasPlanillaProfesional.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/noUiSlider-15.7.1/nouislider.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/admin.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/calendario.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradorAccionPersonal.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradorAccionPersonal.min.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradorAccionPersonal_formularios.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradorAccionPersonal_formularios.min.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradores.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradoresDocumentosDigitales.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradoresPerfil.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/config_colaborador_historico.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/config_colaborador_vacaciones.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/config_datos_generales.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/config_empresa_planilla.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/departamentos.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/facturacion.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/facturacion_edit.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/facturacion_pago.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/home.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/marketPlace.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/miCuenta.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/miCuenta.min.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/noticias.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/noticias_create.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/noticias_edit.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/reporte_INS.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/admin/vacaciones.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/login/activacion-cuenta.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/login/password-reset.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/login/register.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/login/twoFactor.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/login/twoFactorCodigo.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/panel/clientes.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/panel/configuracionCatalogoCCSS.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/panel/configuracionCatalogoINS.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/panel/marketplace.min.js" />
+        <item url="file://$PROJECT_DIR$/public/js/scripts/panel/noticiasPanel.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/public/build/assets/app.d1522041.min.js" />
+      <root url="file://$PROJECT_DIR$/public/estilos/application/js/appPlanilla/herramientasPlanillaProfesional.min.js" />
+      <root url="file://$PROJECT_DIR$/public/estilos/application/views/default/pages/partials/form-basic/@page-script.min.js" />
+      <root url="file://$PROJECT_DIR$/public/estilos/assets/js/cargando.min.js" />
+      <root url="file://$PROJECT_DIR$/public/estilos/node_modules/PayCards/js/main.min.js" />
+      <root url="file://$PROJECT_DIR$/public/estilos/node_modules/PayCards/js/main.min.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/cargando.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/cropper/cropper.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/global.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/global_ui.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/herramientasPlanillaProfesional.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/noUiSlider-15.7.1/nouislider.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/admin.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/calendario.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradorAccionPersonal.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradorAccionPersonal.min.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradorAccionPersonal_formularios.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradorAccionPersonal_formularios.min.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradores.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradoresDocumentosDigitales.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/colaboradoresPerfil.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/config_colaborador_historico.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/config_colaborador_vacaciones.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/config_datos_generales.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/config_empresa_planilla.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/departamentos.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/facturacion.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/facturacion_edit.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/facturacion_pago.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/home.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/marketPlace.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/miCuenta.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/miCuenta.min.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/noticias.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/noticias_create.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/noticias_edit.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/reporte_INS.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/admin/vacaciones.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/login/activacion-cuenta.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/login/password-reset.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/login/register.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/login/twoFactor.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/login/twoFactorCodigo.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/panel/clientes.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/panel/configuracionCatalogoCCSS.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/panel/configuracionCatalogoINS.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/panel/marketplace.min.js" />
+      <root url="file://$PROJECT_DIR$/public/js/scripts/panel/noticiasPanel.min.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
